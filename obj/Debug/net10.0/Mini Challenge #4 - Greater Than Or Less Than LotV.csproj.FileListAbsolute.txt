@@ -1,0 +1,14 @@
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/bin/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/bin/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.deps.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/bin/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.runtimeconfig.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/bin/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/bin/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.AssemblyInfoInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.AssemblyInfo.cs
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.csproj.CoreCompileInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/refint/Mini Challenge #4 - Greater Than Or Less Than LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/Mini Challenge #4 - Greater Than Or Less Than LotV.genruntimeconfig.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #4 - Greater Than Or Less Than LotV/obj/Debug/net10.0/ref/Mini Challenge #4 - Greater Than Or Less Than LotV.dll
