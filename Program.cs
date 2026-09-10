@@ -2,8 +2,8 @@
 //09/09/2026
 //Mini Challenge #4 Greater than or less than
 //Converted user's number inputs from strings to int, wrote conditional statements, and Console.WriteLine to state whether the numbers were less than, greater than, or equal to.
-//Peer Review Name:
-//Review:
+//Peer Review Name:Chris Estrada
+//Review: Code works and is clean with notes. I did not think to display the actual numbers in the results but that looks better. Good job!
 
 Console.Clear();
 Console.Write("Please enter a number: ");
